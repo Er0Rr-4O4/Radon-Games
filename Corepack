@@ -1,5 +1,2 @@
-git add
-git init
-npm init
 corepack enable
 corepack use pnpm@*
