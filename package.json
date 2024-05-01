@@ -33,6 +33,5 @@
     "typescript": "^5.2.2",
     "vite": "^4.4.5",
     "vite-plugin-static-copy": "^0.17.0"
-    "pnpm-lock.yaml": "^6.0"
   }
 }
