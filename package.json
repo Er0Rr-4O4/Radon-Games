@@ -21,6 +21,8 @@
     "react": "npm:@preact/compat@^17.1.2",
     "react-dom": "npm:@preact/compat@^17.1.2",
     "react-icons": "^4.11.0"
+    "corepack enable"
+    "corepack use pnpm@*"
   },
   "devDependencies": {
     "@preact/preset-vite": "^2.5.0",
@@ -33,7 +35,4 @@
     "typescript": "^5.2.2",
     "vite": "^4.4.5",
     "vite-plugin-static-copy": "^0.17.0"
-  }
-  "dependencies": }
-    "corepack enable"
-    "corepack use pnpm@*"
+
